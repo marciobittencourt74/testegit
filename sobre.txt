@@ -1,3 +1,5 @@
 Esse é um teste para criar um novo projeto usando Github pelo terminal Ubuntu,-- agora estou editando o commit primeiro no arquivo txt
 
-ALtaração feita no Code usando o meu terminal Ubuntu, para depois fazer o Upload
+Alteração feita no Code usando o meu terminal Ubuntu, para depois fazer o Upload
+
+Essa alteração foi feita através do painel do GiHub browser, em 26/03/25 com a finalidade de saber como inserir e baixar depois=pull
