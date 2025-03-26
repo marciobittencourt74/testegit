@@ -1,1 +1,3 @@
 Esse é um teste para criar um novo projeto usando Github pelo terminal Ubuntu,-- agora estou editando o commit primeiro no arquivo txt
+
+ALtaração feita no Code usando o meu terminal Ubuntu, para depois fazer o Upload
